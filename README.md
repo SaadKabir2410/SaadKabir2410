@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SaadKabir2410
 - 👀 I’m interested in cross platform development
 - 🌱 I’m currently learning flutter
-- 💞️ I’m looking to collaborate on Pyhton,Java,Flutter projects
+- 💞️ I’m looking to collaborate on Flutter Projects
 - 📫 How to reach me on Instagram @saad_kabir_10
 - ⚡ Fun fact: Problem-Solution
 
