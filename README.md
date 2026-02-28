@@ -1,11 +1,7 @@
-- 👋 Hi, I’m @SaadKabir2410
-- 👀 I’m interested in cross platform development
-- 🌱 I’m currently working on Mobile App Development with flutter
-- 💞️ I’m looking to collaborate on Flutter Projects
-- 📫 How to reach me on Instagram @saad_kabir_10
-- ⚡ Fun fact: Problem-Solution
+👋 Hi, I’m Md Saad Kabir (@SaadKabir2410)
+💻 I’m a Front-End Developer passionate about building seamless cross-platform applications
+🚀 Currently working with React, Next.js, and modern web technologies
+🤝 I’m open to collaborating on creative front-end projects, mobile apps, or real-time web applications
+📫 Reach me on Instagram: @saad_kabir_10
 
-<!---
-SaadKabir2410/SaadKabir2410 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+⚡ Fun fact: I see every problem as a solution in progress 💡
